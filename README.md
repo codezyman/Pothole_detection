@@ -1,4 +1,4 @@
-# Pothole Detection using Jupyter Notebook
+# Pothole Detection
 
 ## Table of Contents
 - [About The Project](#about-the-project)
